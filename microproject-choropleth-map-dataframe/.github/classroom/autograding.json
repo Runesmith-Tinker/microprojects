@@ -1,4 +1,5 @@
 {
+  "allOrNothing": true,
   "tests": [
     {
       "name": "Part 2: Importing Libraries and Loading Datasets",
